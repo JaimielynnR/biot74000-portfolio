@@ -4,60 +4,31 @@ title: "Bioinformatics Toolkit"
 author_profile: true
 ---
 
-<!--
-  ============================================================================
-  SECTION 2: BIOINFORMATICS TOOLKIT  (30 points)
-  ============================================================================
-  A curated, annotated catalogue of the tools, databases, file formats, and
-  methods you worked with in this course. This is the POLISHED version of your
-  Course Learning Log — not a copy-paste, but a professional re-write,
-  organized by CATEGORY (not by unit).
-
-  FOR EACH ENTRY, INCLUDE:
-    - Tool / database name
-    - 1–2 sentences describing one specific use example from the course
-      that YOU performed
-    - One note on a strength or a limitation
-
-  SUGGESTED CATEGORIES (use the ones that fit your work; add or remove as needed):
-    Sequence Analysis Tools · Databases & Data Retrieval ·
-    Genome & Transcriptome Analysis · Protein Structure & Function ·
-    Computational & Scripting Tools · Data Visualization
-
-  Entries copied word-for-word from documentation will not receive full marks —
-  use your own words. Quality and honesty matter more than the number of entries.
-
-  HOW TO EDIT:
-    - Replace the example entries below with your own.
-    - Keep the same simple pattern: a "##" category heading, then one
-      "###" heading per tool, then your notes underneath.
-    - Delete these grey instruction notes before you submit.
-  ============================================================================
--->
-
-_A curated catalogue of the tools, databases, and methods I have worked with,
-organized by what they are used for._
+_A curated catalogue of the tools, databases, and methods I have worked with, organized by what they are used for._
 
 ## Sequence Analysis Tools
 
 ### BLAST (Basic Local Alignment Search Tool)
 
-**Use example:** [Describe one specific thing you did with BLAST in this course
-— e.g. "I used BLASTn to identify the closest known relatives of a query
-sequence during the Unit 2 alignment activity, and interpreted the E-values and
-query coverage to judge which hits were meaningful."]
+**Use example:** I completed a BLAST search for the RECQ4 gene. I sorted the results based on the closeness of relation to RECQ4 as well as the likelihood the match was associated by random error. I used this to evaluate the organism that likely matched this gene. 
 
-**Strengths / limitations:** [One honest note — e.g. "Fast and easy for finding
-similar sequences, but the top hit by score is not always the most biologically
-relevant, so results need careful interpretation."]
+**Strengths / limitations:** This database casts a wide net finding many related sequences. It is a good starting point when evaluating connections between different sequences.  
 
 ---
 
-### [Tool Name]
+### NCBI GenBank
 
-**Use example:** [Your text here.]
+**Use example:** The RECQL4 gene was searched in this database and generated results such as the genes chromosome location, sequence length and organism origin. This information was cross-referenced across other databases. 
 
-**Strengths / limitations:** [Your text here.]
+**Strengths / limitations:** This database provides credible information on genes and is a reliable starting point to acquire gene information. 
+
+---
+
+### NCBI RefSeq
+
+**Use example:** I found the RefSeq accession link for the BRCAI gene that was searched in this database. This provides a quick URL to the standardized record for the BRCAI gene. 
+
+**Strengths / limitations:** This database is a more reliable source of information than NCBI GenBank.   
 
 ---
 
@@ -65,23 +36,27 @@ relevant, so results need careful interpretation."]
 
 ### UniProt
 
-**Use example:** [Describe one specific retrieval or lookup you performed.]
+**Use example:** The protein TP53 was searched and provided information such as the protein accession, FASTA file, annotation status and length.   
 
-**Strengths / limitations:** [One honest note.]
-
----
-
-## Data Visualization
-
-### [Tool Name]
-
-**Use example:** [Your text here.]
-
-**Strengths / limitations:** [Your text here.]
+**Strengths / limitations:** This database can be information dense and requires thorough screening to find the information of interest, it may not serve best for quick inquiries.
 
 ---
 
-<!--
-  Add more categories and entries by copying the pattern above.
-  Aim for a toolkit that reads like notes a working professional would keep.
--->
+### NCBI GEO
+
+**Use example:** Homo sapiens was searched in the GEO data set. There were 124 experiments that populated and GEO accession GSE316546 was selected to observe the information provided such as experimental summary, design, and FASTA files.  
+
+**Strengths / limitations:** This database can have data inconsistencies as well as a lack of credibility due to the type of information being provided. 
+
+---
+
+## Data Visualization/Scripting 
+
+### R Studio
+
+**Use example:** Scripts were inputted from class content to demonstrate functions of the R language and assign functions to the project. Using the assigned script I assigned an operator to a data type and give them values using (<-). 
+
+**Strengths / limitations:** This tool can be helpful to produce a statistical analysis of large data sets as well as a graph to visualize the results. 
+
+---
+
