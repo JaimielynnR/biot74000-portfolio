@@ -14,7 +14,7 @@ redirect_from:
 Hello — I'm Jaimie-Lynn Rocha, a student in the Bachelor of Applied Biotechnology
 (Honours) program at Conestoga College.
 
-I have an interest in environmental and agricultural biotechnology and aspire to acquire a leadership role in a laboratory within these fields. I am curious and passionate about the intersection between the natural environment and biotechnology. 
+I have an interest in environmental and agricultural biotechnology and aspire to acquire a leadership role in a laboratory within these fields. I am curious and passionate about the intersection between the natural environment and biotechnology. I am passionate about education and hope to acquire a role in a hands-on teaching environment in the future. 
 
 The skills I have in bioinformatics will aid in the interpretation and visualization of the data I collect within this field. 
 
