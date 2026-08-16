@@ -4,30 +4,6 @@ title: "Skills Snapshot"
 author_profile: true
 ---
 
-<!--
-  ============================================================================
-  SECTION 3: SKILLS SNAPSHOT  (30 points)
-  ============================================================================
-  A concise, scannable summary of your bioinformatics competencies — like a
-  skills summary on a resume. An employer should be able to read it in under
-  two minutes. Be HONEST about your level at this stage of your training.
-
-  Organize skills into TWO buckets:
-    - Intermediate / Advanced  → you can perform these independently, explain
-      them to others, and apply them in a new context.
-    - Beginner / Basic Exposure → you encountered/used these in a guided way and
-      would need support to apply them independently.
-
-  Your skill levels are checked against your actual course activities — listing
-  everything as "Advanced" will cost you marks. It is completely fine (and
-  expected) for many skills to sit in the Beginner / Basic Exposure column.
-
-  HOW TO EDIT:
-    - Fill in the two tables below. Replace the example rows with your own.
-    - To add a row, copy an existing line (keep the | bars in place).
-    - Delete these grey instruction notes before you submit.
-  ============================================================================
--->
 
 _An honest summary of my current bioinformatics competencies._
 
@@ -37,9 +13,8 @@ _Skills I can perform independently, explain to others, and apply in a new situa
 
 | Skill / Tool | What I can do with it |
 |---|---|
-| [e.g. BLAST sequence searches] | [e.g. Run and interpret nucleotide and protein searches independently] |
-| [Skill / Tool] | [What you can do] |
-| [Skill / Tool] | [What you can do] |
+| R Studio | [e.g. Run and write basic script independently and produce a variety of graphical interpretations |
+| NCBI GenBank | e.g. Search a gene and gather necessary information needed to better understand it and apply it to a task at hand |
 
 ## Beginner / Basic Exposure
 
@@ -47,6 +22,10 @@ _Skills I have used in a guided setting and would need support to apply independ
 
 | Skill / Tool | Level of experience |
 |---|---|
-| [e.g. Command-line navigation] | [e.g. Can run provided commands; not yet writing my own] |
-| [Skill / Tool] | [Your experience] |
-| [Skill / Tool] | [Your experience] |
+| NCBI RefSeq | [e.g. Can use the software but lacks experience interpreting results |
+| UniProt | e.g. Can search the database but needs guidance interpreting results and navigating some areas |
+| BLAST | e.g. Can run a BLAST query but needs support filtering the search parameters based on the needs of the query |
+| NCBI GEO  | e.g. Familiar with the database but have yet to use it in practice |
+| Ensembl | e.g. Can search the browser but needs guidance interpreting results |
+| Clustal Omega MSA | e.g. Can run the alignment but needs support interpreting results |
+
