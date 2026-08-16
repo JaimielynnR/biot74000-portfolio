@@ -13,7 +13,7 @@ _Skills I can perform independently, explain to others, and apply in a new situa
 
 | Skill / Tool | What I can do with it |
 |---|---|
-| R Studio | [e.g. Run and write basic script independently and produce a variety of graphical interpretations |
+| R Studio | e.g. Run and write basic script independently and produce a variety of graphical interpretations |
 | NCBI GenBank | e.g. Search a gene and gather necessary information needed to better understand it and apply it to a task at hand |
 
 ## Beginner / Basic Exposure
@@ -22,7 +22,7 @@ _Skills I have used in a guided setting and would need support to apply independ
 
 | Skill / Tool | Level of experience |
 |---|---|
-| NCBI RefSeq | [e.g. Can use the software but lacks experience interpreting results |
+| NCBI RefSeq | e.g. Can use the software but lacks experience interpreting results |
 | UniProt | e.g. Can search the database but needs guidance interpreting results and navigating some areas |
 | BLAST | e.g. Can run a BLAST query but needs support filtering the search parameters based on the needs of the query |
 | NCBI GEO  | e.g. Familiar with the database but have yet to use it in practice |
