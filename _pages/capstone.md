@@ -4,56 +4,18 @@ title: "Capstone Connection"
 author_profile: true
 ---
 
-<!--
-  ============================================================================
-  SECTION 4: CAPSTONE CONNECTION  (20 points)  |  Suggested length: 200–300 words
-  ============================================================================
-  A concise, professional summary of how you applied bioinformatics to your
-  capstone project. This draws from your Assignment 2 work — it is a
-  professional-context summary, NOT a repeat of the assignment.
-
-  INCLUDE:
-    - A 2–4 sentence description of your capstone project (assume a general
-      audience who is not in your program)
-    - The bioinformatics tool, dataset, or method you applied in Assignment 2,
-      and why it was relevant
-    - What you found or produced, described in plain language
-    - 1–2 sentences on how this bioinformatics component strengthened your capstone
-    - (Optional) embedded images or output figures — see the guide for how to
-      add an image
-
-  HOW TO EDIT:
-    - Replace the placeholder text below with your own.
-    - Delete these grey instruction notes before you submit.
-  ============================================================================
--->
 
 ## My Capstone Project
 
-[In 2–4 sentences, describe your capstone project for a general reader. What
-question or problem does it address? Why does it matter? Avoid program-specific
-jargon.]
+The capstone project I completed was “Testing the Effects of Antimicrobials Rosmarinic Acid and Nisin Against Listeria monocytogenes in Suspension Culture”. The goal was to test how the bacteria Listeria monocytogenes grew after having antimicrobial agents Nisin and Rosmarinic acid added to it over the course of 24 hours. During this time frame bacteria can grow ten-fold in concentration, so adding treatment in this window can better our understanding of what effectively reduces the growth and at what concentration. Listeria is a harmful bacteria found on ready-made food products and vegetables so researching how to reduce its growth is valuable. 
 
 ## The Bioinformatics Component
 
-[Describe the specific bioinformatics tool, dataset, or method you applied in
-Assignment 2, and explain why it was the right choice for this problem.]
+I applied the tool R Studio for Assignment 2. It was useful because I had large datasets on excel and using a script generated with assistance from Microsoft Co-Pilot, I was able to analyze the data and display it on two scatter plots. It was very relevant for calculations, analysis, and graphing. 
 
-[In plain language, describe what you found or produced. What did the analysis
-tell you?]
+I produced two scatter plots. The first compared the growth of treated Listeria at varying concentrations of Rosmarinic acid to untreated Listeria, and the second displayed the percentage that each concentration reduced growth of the bacteria.
 
 ## Why It Strengthened My Capstone
 
-[In 1–2 sentences, explain how adding this bioinformatics work made your
-capstone project stronger, more credible, or more complete.]
+My capstone was strengthened by learning R Studio in class as it helped my group producing visuals and complete statistical analysis. This assignment allowed me to gain confidence with that analysis. 
 
-<!--
-  OPTIONAL — to embed an image or figure you produced:
-  1. Upload the image file to the images/ folder in your repository.
-  2. Add a line like this where you want it to appear (remove the leading
-     grey-comment marks):
-
-     ![Short description of the figure](/biot74000-portfolio/images/your-figure.png)
-
-  Make sure the path matches your repository name.
--->
